@@ -1,0 +1,31 @@
+.scroll {
+  height: 1020px; 
+  overflow-y: no-auto; 
+}
+
+body{
+background:url('Фон.jpg');
+}
+
+header {color: white; margin-left:650px;font-size: 30px;font-family: Helvetica;}
+p {color: white;}
+
+.iconci{
+  width: 32px;
+  height: 32px;
+}
+
+.centered-text {
+    position: absolute;
+    left: 300px;
+    top: 450px;
+    right: 270px;
+    color: white ;
+    font-size:30px
+}
+.iconci {
+    position: absolute;
+    left: 700px;
+    right: 350px;
+    bottom: -250px;
+}
